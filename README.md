@@ -39,7 +39,7 @@ the final video will then be posted on youtube. the goal is to tell some sort of
 ### The Fallen 
 **Players:** Eliza, Bright
 **Banner:**
-![[{174FB327-EA8B-44C7-96A1-846398466CF8}.png]]
+![img](https://imgur.com/a/tD48AgW)
 cols=grayscale
 
 ### TEAMNAME (undecided)
@@ -52,7 +52,7 @@ cols=#####
 ### (secret... idk what that means)
 **Players:** Katya, Lana, Steph
 **Banner:**
-![[Pasted image 20260114152350.png]]
+![img](https://imgur.com/a/9FFegUE)
 cols=blue/green
 
 ## Join
