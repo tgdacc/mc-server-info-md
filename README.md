@@ -35,6 +35,8 @@ the final video will then be posted on youtube. the goal is to tell some sort of
 
 > you can not steal items from other people's shops
 
+> since locked chests can not be destroyed just like bedrock... for fairness, traps or anything that expoits using locked chests is prohibited
+
 ## Teams (3)
 ### The Fallen 
 **Players:** Eliza, Bright
